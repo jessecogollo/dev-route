@@ -24,6 +24,14 @@ const comments = exports.comments = {
     type: 'string',
     required: false
   },
+  internet: {
+    type: 'string',
+    required: true
+  },
+  comfort: {
+    type: 'string',
+    required: true
+  },
   user: {
     type: 'string',
     required: true,
