@@ -1,0 +1,20 @@
+{
+  "name": "dev-route",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jessecogollo/dev-route.git"
+  },
+  "keywords": [],
+  "author": "Jesse <cogollo87@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jessecogollo/dev-route/issues"
+  },
+  "homepage": "https://github.com/jessecogollo/dev-route#readme"
+}
