@@ -1,15 +1,16 @@
 {
-    'name': 'pergamino cafe',
-    'description': 'cafe ubicado en el poblado, bla bla bla...',
-    'avgStars': 0,
-    'comments': [
+"name": "pergamino cafe",
+    "description": "cafe ubicado en el poblado, bla bla bla...",
+    "avgStars": 0,
+    "comments": [
         {
-            'generalComment': 'lugar agradable, buena musica. Deja mucho que desear con la conexion de internet',
-            'start': 4,
-            'music': 'excelente musica, volumen adecuado que permite conversar.',
-            'service': 'en general el servicio fue bueno',
-            'internet': 'El internet deja mucho que desear, tienen limite de usuario activos y se cae el internet muy seguido',
-            'comfort': 'El inmueble muy comodo',
-            'user': 'jessecogollo'
+            "generalComment": "lugar agradable, buena musica. Deja mucho que desear con la conexion de internet",
+            "start": 4,
+            "music": "excelente musica, volumen adecuado que permite conversar.",
+            "service": "en general el servicio fue bueno",
+            "internet": "El internet deja mucho que desear, tienen limite de usuario activos y se cae el internet muy seguido",
+            "comfort": "El inmueble muy comodo",
+            "user": "jessecogollo",
+            "date": "2017-01-23T14:00:00"
         }]
 }

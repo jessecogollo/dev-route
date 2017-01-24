@@ -1,0 +1,16 @@
+{
+"name": "otra parte cafe",
+    "description": "cafe ubicado en envigado, bla bla bla...",
+    "avgStars": 0,
+    "comments": [
+        {
+            "generalComment": "lugar agradable, buena musica. excelente conexion de internet",
+            "start": 5,
+            "music": "excelente musica, volumen adecuado que permite conversar.",
+            "service": "en general el servicio fue bueno",
+            "internet": "Excelente conexion a internet.",
+            "comfort": "El inmueble muy comodo",
+            "user": "jessecogollo",
+            "date": "2017-01-10T14:00:00"
+        }]
+}
