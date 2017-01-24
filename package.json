@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jessecogollo/dev-route/issues"
   },
-  "homepage": "https://github.com/jessecogollo/dev-route#readme"
+  "homepage": "https://github.com/jessecogollo/dev-route#readme",
+  "dependencies": {
+    "vue": "^2.1.10"
+  }
 }
