@@ -36,6 +36,11 @@ const comments = exports.comments = {
     type: 'string',
     required: true,
     defaulstTo: 'Anonymous'
+  },
+  date: {
+    type: 'Date',
+    required: true,
+    format: 'YYYY-MM-DDTh:mm:ss'
   }
 };
 
