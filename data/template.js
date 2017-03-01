@@ -49,12 +49,32 @@ module.exports = {
     type: 'string',
     required: true
   },
+  address: {
+    type: 'string',
+    required: true
+  },
+  phone: {
+    type: 'string',
+    required: true
+  },
   description: {
     type: 'string',
     required: true
   },
   avgStars: {
     type: 'float',
+    required: true
+  },
+  music: {
+    type: 'string',
+    required: true
+  },
+  internet: {
+    type: 'string',
+    required: true
+  },
+  powerConnection: {
+    type: 'string',
     required: true
   },
   comments: {

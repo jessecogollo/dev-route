@@ -1,0 +1,21 @@
+{
+    "name": "café cliché",
+    "address": "",
+    "phone": "",
+    "description": "cafe ubicado en medellin, por la avenida nutibara",
+    "avgStars": 0,
+    "music": true,
+    "internet": true,
+    "powerConnection": true,
+    "comments": [
+        {
+            "generalComment": "lugar agradable, buena musica. excelente conexion de internet",
+            "start": 5,
+            "music": "excelente musica, volumen adecuado que permite conversar.",
+            "service": "en general el servicio fue bueno",
+            "internet": "Excelente conexion a internet.",
+            "comfort": "El inmueble muy comodo",
+            "user": "jessecogollo",
+            "date": "2017-02-28T14:00:00"
+        }]
+}
