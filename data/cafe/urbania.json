@@ -1,0 +1,21 @@
+{
+  "name": "Urbania cafe",
+  "address": "",
+  "phone": "",
+  "description": "cafe ubicado en medellin, a dos cuadras del parque el poblado",
+  "avgStars": 0,
+  "music": true,
+  "internet": true,
+  "powerConnection": true,
+  "comments": [
+    {
+      "generalComment": "lugar agradable, buena musica. excelente conexion de internet, excelente musica. Tiene conexion electrica para los portatiles.",
+      "start": 5,
+      "music": "excelente musica, volumen adecuado que permite conversar.",
+      "service": "en general el servicio fue bueno",
+      "internet": "Excelente conexion a internet.",
+      "comfort": "El inmueble muy comodo, y muy agradable el lugar",
+      "user": "jessecogollo",
+      "date": "2017-04-04T14:00:00"
+    }]
+}
